@@ -1,0 +1,5 @@
+#include<iostream>
+int masin()
+{
+    
+}
